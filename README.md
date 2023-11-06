@@ -1,4 +1,6 @@
-	• npm i redux react-redux
+In the code the files changed have a comment with //redux
+ 
+ • npm i redux react-redux
 
 
 REDUX
