@@ -1,3 +1,4 @@
+//redux
 const initialState=10;
 
 const changeNumber =(state=initialState, action) => {

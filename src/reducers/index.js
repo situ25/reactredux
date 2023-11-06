@@ -1,3 +1,5 @@
+//redux
+
 // This will have one main reducer
 
 import changeNumber from "./upDown";

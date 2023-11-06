@@ -1,3 +1,5 @@
+//redux
+
 import {createStore} from "redux";  // this has been deprectaed please find a replacement
 import rootReducer from "./reducers";
 

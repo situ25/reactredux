@@ -1,3 +1,5 @@
+//redux
+
 export const incNumber= (num)=> {
  return { 
      type: "INCREMENT",

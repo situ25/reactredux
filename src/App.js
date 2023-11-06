@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-
+//redux
 import { useDispatch, useSelector } from 'react-redux';
 import { incNumber,decNumber } from './actions/index';
 
 
 function App() {
-
+//redux
   const myState =useSelector((state) => state.changeNumber);
   const dispatch= useDispatch();
 
